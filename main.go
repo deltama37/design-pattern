@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "github.com/deltama37/design-pattern/iterator"
 
 func main() {
-	fmt.Println("Hello")
+	iterator.Example{}.Run()
 }
